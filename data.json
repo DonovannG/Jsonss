@@ -1,10 +1,19 @@
 [{
   "name": "Andrew",
   "hobby": "Play Guitar"
+  "age": "20"
+  "phone": "3333333333"
+  "address": "Av.X #31"
 },  {
   "name": "Bobby",
   "hobby": "Cooking"
+  "age": "21"
+  "phone": "1234567891"
+  "address": "Av.Y #89"
 }, {
   "name": "Jason",
   "hobby": "Nothing, Jason Sucks"
+  "age": "22"
+  "phone": "6969696969"
+  "address": "Cal.Paradise #69"
 }]
